@@ -1,19 +1,17 @@
-// Import the Firebase SDK
 import firebase from "./firebase/app"
 import "./firebase/auth"
 import "./firebase/firestore"
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCEf8B5CoVTPxrSN_rYVfAeJCyTzI6cgmw",
-  authDomain: "mywork-54039.firebaseapp.com",
-  databaseURL: "https://mywork-54039-default-rtdb.firebaseio.com",
-  projectId: "mywork-54039",
-  storageBucket: "mywork-54039.firebasestorage.app",
-  messagingSenderId: "1006624462364",
-  appId: "1:1006624462364:web:f3c7e9daa3e4b87e32b1d9",
-  measurementId: "G-ST1KC211S9"
-};
+    apiKey: "AIzaSyBAMj4cp4c3ui7s7fXEIJVc2XnKcU3ytOc",
+    authDomain: "sign-up-login-form-74df0.firebaseapp.com",
+    projectId: "sign-up-login-form-74df0",
+    storageBucket: "sign-up-login-form-74df0.firebasestorage.app",
+    messagingSenderId: "501337414254",
+    appId: "1:501337414254:web:d35d715674835583b3247f",
+    measurementId: "G-HGH9T74PV7"
+  };
 
 
 // Initialize Firebase
